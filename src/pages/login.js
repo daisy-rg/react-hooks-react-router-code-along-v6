@@ -7,7 +7,7 @@ function Login(){
                 <form>
                     <div>
                         <label for="username">Username:</label>
-                        <input idd="username" type="text" name="username" placeholder="username"/>
+                        <input id="username" type="text" name="username" placeholder="username"/>
                     </div>
                     <br/>
                     <button type="submit">Submit</button>

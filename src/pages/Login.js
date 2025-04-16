@@ -1,7 +1,10 @@
+import NavBar from "../components/NavBar";
+
 function Login(){
     return(
         <>
         <header>
+            <NavBar/>
             <main>
                 <h1>Login</h1>
                 <form>
